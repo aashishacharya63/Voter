@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+ import 'package:flutter/material.dart';
 import 'data.dart'; // Assuming you have a file named 'data.dart' with your data
 
 class Candidates extends StatefulWidget {
